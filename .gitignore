@@ -3,3 +3,4 @@
 /temp/
 secret.txt
 node_modules/
+.vscode/
